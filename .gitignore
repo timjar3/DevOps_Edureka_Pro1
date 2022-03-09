@@ -1,0 +1,5 @@
+# add names of files, dir that you dont want git to track
+
+file101.txt
+*.log
+
