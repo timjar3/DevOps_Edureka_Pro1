@@ -1,0 +1,10 @@
+a7635a8 file123.txt
+c011b20 3files commited
+1900be2 git ignore file
+fd7f105 deletionn file reverted Revert "deleted niceone"
+e274116 deleted niceone
+1ec9091 after finding the diff
+f64a157 all staged to repo
+3a88708 also file deleted
+43451d9 maybe file bug fixed
+4c565fe first commit
